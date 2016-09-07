@@ -1,19 +1,4 @@
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @edisonljh
- Watch 2
-  Star 8
-  Fork 6 nuterian/resume
- Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathresume/style.css
-5069527  on Aug 28, 2014
-@nuterian nuterian Merge from origin
-1 contributor
-RawBlameHistory     176 lines (158 sloc)  3.62 KB
+
 body { margin: 0;
        padding: 0;
        background-color: #fff font-size: 12px;
@@ -176,19 +161,17 @@ ul.skills li:last-child{
     .section-text { font-size: 9pt; line-height: 14pt; }
 
     .light { font-size: 7.5pt; line-height:12pt; color:#ddd; }
-    
+
     .page { width: 21cm }
     ul {margin:5px 0 0}
     .section { padding: 5px 0 8px }
     .section-text { width: 15cm; margin: 5px 0 5px;}
     .subsection { margin: 5px 0 0 }
     .desc { font-size: 9pt }
-    
+
     .contact-info { font-size: 9pt}
-    
+
     ul.skills{margin: 0 10px 0 0;}
     ul.skills li{ font-size: 9pt; margin-bottom:0}
 
 }
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
